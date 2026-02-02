@@ -1,6 +1,6 @@
 
  <h1 align="center">Hi 👋, I'm Grace Mawia 😊 </h1>
-<h3 align="center">A Software Developer ✨ based in 🌍 Nairobi, Kenya 🇰🇪.</h3> 
+<h3 align="center">A Software Developer based in  Nairobi, Kenya.</h3> 
 <p align="center">I enjoy writing code .</p>
 <h3 align="left" >📫 Connect with me:</h3>
 
