@@ -6,9 +6,10 @@ Exploring vulnerabilities, securing systems, and building tools that make the in
 </p>
 
 <p align="center">
-  ![My Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://geeportifolio.netlify.app/)
+  <a href="https://mawia-barbie.github.io/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/💖%20My%20Portfolio-Visit%20Now-FF82AB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge" />
+  </a>
 </p>
-
 ---
 
 ## 🎨 Skills & Tools
@@ -63,9 +64,16 @@ Documentation of challenges solved in cybersecurity labs including methodology, 
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mawia-barbie&show_icons=true&theme=dracula)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mawia-barbie&layout=compact&theme=dracula)
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mawia-barbie&show_icons=true&theme=react&hide_border=true&title_color=FF82AB&icon_color=FF69B4&text_color=000000&bg_color=FFF0F5" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawia-barbie&layout=compact&theme=react&hide_border=true&title_color=FF82AB&text_color=000000&bg_color=FFF0F5" alt="Top Languages" />
 </p>
 
 ---
@@ -81,9 +89,15 @@ Documentation of challenges solved in cybersecurity labs including methodology, 
 ## 🤝 Connect With Me
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grace-mawia-9b8340269/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia-barbie)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mawiag411@gmail.com)
+  <a href="https://www.linkedin.com/in/grace-mawia-9b8340269/" style="text-decoration:none; margin:0 5px;">
+    <img src="https://img.shields.io/badge/💼-LinkedIn-6E4B9E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/mawia-barbie" style="text-decoration:none; margin:0 5px;">
+    <img src="https://img.shields.io/badge/🐱-GitHub-FF82AB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <a href="mailto:mawiag411@gmail.com" style="text-decoration:none; margin:0 5px;">
+    <img src="https://img.shields.io/badge/✉️-Email-FBA5C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
 </p>
 
 ---
