@@ -6,7 +6,7 @@ Exploring vulnerabilities, securing systems, and building tools that make the in
 </p>
 
 <p align="center">
-  [![My Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://geeportifolio.netlify.app/)
+  ![My Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://geeportifolio.netlify.app/)
 </p>
 
 ---
