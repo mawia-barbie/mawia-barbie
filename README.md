@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Grace Mawia</h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacking | Python & Network Security</h3>
+<h1 align="center" style="color:#FF69B4; text-shadow: 2px 2px #FFC0CB;">Hi 👋, I'm Grace Mawia</h1>
+
+<h3 align="center" style="color:#FF82AB; font-style:italic;">
+💻 Cybersecurity Enthusiast | Ethical Hacking | Python & Network Security 
+</h3>
+
+<p align="center" style="color:#FF69B4; font-size:1.2em; max-width:650px; margin:auto;">
+✨ Exploring vulnerabilities, securing systems, and building tools that make the internet safer. ✨
+</p>
 
 <p align="center">
-Exploring vulnerabilities, securing systems, and building tools that make the internet safer.
+ <span style="color:#FF82AB;">Python 🐍</span> | 🔐 <span style="color:#FF82AB;">Web Security</span> | 🌐 <span style="color:#FF82AB;">Networking</span> 
 </p>
 
 <p align="center">
@@ -10,6 +17,8 @@ Exploring vulnerabilities, securing systems, and building tools that make the in
     <img src="https://img.shields.io/badge/💖%20My%20Portfolio-Visit%20Now-FF82AB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
+
+
 ---
 
 ## 🎨 Skills & Tools
@@ -61,8 +70,6 @@ Documentation of challenges solved in cybersecurity labs including methodology, 
 [![CTF Writeups](https://img.shields.io/badge/CTF-Writeups-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia-barbie)
 
 ---
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
