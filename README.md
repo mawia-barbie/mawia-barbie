@@ -1,75 +1,99 @@
+<h1 align="center">Hi 👋, I'm Grace Mawia</h1>
+<h3 align="center">Cybersecurity Enthusiast | Ethical Hacking | Python & Network Security</h3>
+
+<p align="center">
+Exploring vulnerabilities, securing systems, and building tools that make the internet safer.
+</p>
+
+<p align="center">
+  [![My Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://geeportifolio.netlify.app/)
+</p>
+
 ---
-title: Home
-icon: fas fa-home
-order: 0
+
+## 🎨 Skills & Tools
+
+### Operating Systems
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-3FBD67?style=for-the-badge&logo=parrot&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Network Security
+![Nmap](https://img.shields.io/badge/Nmap-1A1A1A?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-FF6EB4?style=for-the-badge)
+
+### Web Security
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6EB4?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-FF6EB4?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-FF6EB4?style=for-the-badge)
+
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ---
 
-<!-- Home Section -->
-<div style="min-height:100vh; padding:50px; background: linear-gradient(135deg, #FFB6C1, #FF69B4); color:#000000;">
+## 🔍 Projects
 
-  <!-- Hero / Quick Tagline -->
-  <h1 style="text-align:center; font-size:3em; text-shadow:0 0 10px #FF69B4,0 0 20px #FF82AB; margin-bottom:10px;">
-    Mawia ⚡
-  </h1>
-  <p style="text-align:center; font-size:1.3em; margin-bottom:50px; text-shadow:0 0 6px #FF82AB;">
-    Cybersecurity & Python Projects in Action
-  </p>
+### 🔎 Network Scanner
+A Python-based tool that scans a target for open ports and running services.
 
-  <!-- HTB Walkthroughs Section -->
-  <h2 style="text-align:center; margin-bottom:25px; text-shadow:0 0 8px #FF69B4;">HTB Walkthroughs / Documentation</h2>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px; margin-bottom:50px;">
+**Tools Used:** Python, Socket Programming
 
-    <!-- Example HTB Project Card -->
-    <div style="background:#FF82AB; padding:20px; border-radius:15px; width:280px; box-shadow:0 0 15px #FF69B4; transition:transform 0.2s;">
-      <h3 style="text-align:center; text-shadow:0 0 6px #FF69B4;">RESPONDER - Hack The Box</h3>
-      <p style="text-align:center;">Step-by-step walkthrough for RESPONDER HTB lab, covering enumeration and exploitation.</p>
-      <p style="text-align:center;"><a href="https://github.com/mawia-barbie/HTB-responder-lab" style="color:#000000; text-decoration:none;">View Walkthrough</a></p>
-    </div>
+[![Network Scanner](https://img.shields.io/badge/Network_Scanner-GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia/python-port-scanner)
 
-    <div style="background:#FF82AB; padding:20px; border-radius:15px; width:280px; box-shadow:0 0 15px #FF69B4; transition:transform 0.2s;">
-      <h3 style="text-align:center; text-shadow:0 0 6px #FF69B4;">Lab: Legacy</h3>
-      <p style="text-align:center;">Comprehensive documentation for Legacy HTB lab with exploitation steps.</p>
-      <p style="text-align:center;"><a href="https://github.com/mawia/htb-legacy" style="color:#000000; text-decoration:none;">View Walkthrough</a></p>
-    </div>
+### 🌐 Web Application Security Labs
+Practice environments to explore vulnerabilities:
 
-  </div>
+- SQL Injection  
+- Cross-Site Scripting (XSS)  
+- Authentication bypass  
 
-  <!-- Python Tools Section -->
-  <h2 style="text-align:center; margin-bottom:25px; text-shadow:0 0 8px #FF69B4;">Python Tools / Scripts</h2>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px; margin-bottom:50px;">
+Platforms used: TryHackMe, Hack The Box, DVWA
 
-    <!-- Example Python Project Card -->
-    <div style="background:#FF82AB; padding:20px; border-radius:15px; width:280px; box-shadow:0 0 15px #FF69B4; transition:transform 0.2s;">
-      <h3 style="text-align:center; text-shadow:0 0 6px #FF69B4;">Port Scanner</h3>
-      <p style="text-align:center;">Python tool for scanning ports and identifying open services on a network.</p>
-      <p style="text-align:center;"><a href="https://github.com/mawia/python-port-scanner" style="color:#000000; text-decoration:none;">View Code</a></p>
-    </div>
+[![Labs Writeups](https://img.shields.io/badge/Labs-View%20Writeups-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia-barbie/HTB-responder-lab)
 
-    <div style="background:#FF82AB; padding:20px; border-radius:15px; width:280px; box-shadow:0 0 15px #FF69B4; transition:transform 0.2s;">
-      <h3 style="text-align:center; text-shadow:0 0 6px #FF69B4;">Vuln Automator</h3>
-      <p style="text-align:center;">Automates vulnerability scanning with reports for web applications.</p>
-      <p style="text-align:center;"><a href="https://github.com/mawia/vuln-automator" style="color:#000000; text-decoration:none;">View Code</a></p>
-    </div>
+### 📄 CTF Writeups
+Documentation of challenges solved in cybersecurity labs including methodology, commands, screenshots, and lessons learned.
 
-  </div>
+[![CTF Writeups](https://img.shields.io/badge/CTF-Writeups-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia-barbie)
 
-  <!-- View GitHub Button -->
-  <div style="text-align:center; margin-top:50px;">
-    <a href="https://github.com/mawia-barbie" style="padding:15px 30px; border-radius:10px; background:#FF69B4; color:#000000; font-weight:bold; text-decoration:none; box-shadow:0 0 15px #FF82AB; transition: transform 0.2s;">
-      🌟 View All Projects on GitHub
-    </a>
-  </div>
+---
 
-</div>
+## 📊 GitHub Stats
 
-<!-- Hover Effects -->
-<style>
-div div:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 0 25px #FF82AB;
-}
-div a:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 0 20px #FF82AB;
-}
-</style>
+<p align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mawia-barbie&show_icons=true&theme=dracula)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mawia-barbie&layout=compact&theme=dracula)
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Web Application Penetration Testing  
+- Advanced Network Analysis  
+- Security Automation with Python  
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grace-mawia-9b8340269/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia-barbie)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mawiag411@gmail.com)
+</p>
+
+---
+
+⭐ *Thanks for visiting my cybersecurity portfolio!*  
+
+---
+
+### 🌟 Featured Projects
+
+[![DevWell](https://img.shields.io/badge/DevWell-Live-FF6EB4?style=for-the-badge&logo=netlify&logoColor=white)](https://aidevwell.netlify.app)  
+[![SGBV Reporting](https://img.shields.io/badge/SGBV-Reporting-FF6EB4?style=for-the-badge&logo=netlify&logoColor=white)](https://sgbvreporting.netlify.app)  
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio-Gee-FF6EB4?style=for-the-badge&logo=github&logoColor=white)](https://geeportifolio.netlify.app)
