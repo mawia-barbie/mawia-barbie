@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#FF69B4; text-shadow: 2px 2px #FFC0CB;">Hi 👋, I'm Grace Mawia</h1>
 
 <h3 align="center" style="color:#FF82AB; font-style:italic;">
-💻 Cybersecurity Enthusiast | Ethical Hacking | Python & Network Security 
+💻 Cybersecurity Professional | Ethical Hacking | Python & Network Security 
 </h3>
 
 <p align="center" style="color:#FF69B4; font-size:1.2em; max-width:650px; margin:auto;">
