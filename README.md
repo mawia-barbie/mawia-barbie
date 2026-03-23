@@ -49,9 +49,9 @@
 ### 🔎 Network Scanner
 A Python-based tool that scans a target for open ports and running services.
 
-**Tools Used:** Python, Socket Programming
+**Tools Used:** Python, nmap
 
-[![Network Scanner](https://github.com/mawia-barbie/portscanner_with-_nmap)
+[![Network Scanner](https://img.shields.io/badge/Tool-Port%20Scanner-blue?style=for-the-badge&logo=python)](https://github.com/mawia-barbie/portscanner_with-_nmap)
 
 ### 🌐 Web Application Security Labs
 Practice environments to explore vulnerabilities:
