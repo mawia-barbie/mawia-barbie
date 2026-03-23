@@ -51,7 +51,7 @@ A Python-based tool that scans a target for open ports and running services.
 
 **Tools Used:** Python, Socket Programming
 
-[![Network Scanner](https://img.shields.io/badge/Network_Scanner-GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia/python-port-scanner)
+[![Network Scanner](https://github.com/mawia-barbie/portscanner_with-_nmap)
 
 ### 🌐 Web Application Security Labs
 Practice environments to explore vulnerabilities:
