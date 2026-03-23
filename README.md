@@ -50,6 +50,7 @@
 A Python-based tool that scans a target for open ports and running services.
 
 **Tools Used:** Python, nmap
+
 [![Network Scanner](https://img.shields.io/badge/Network%20Scanner-View%20Project-FF69B4?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mawia-barbie/portscanner_with-_nmap)
 
 ### 🌐 Web Application Security Labs
