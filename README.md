@@ -60,9 +60,13 @@ Practice environments to explore vulnerabilities:
 - Cross-Site Scripting (XSS)  
 - Authentication bypass  
 
-Platforms used: TryHackMe, Hack The Box, DVWA
+Platforms used: TryHackMe, Hack The Box, owasp juice shop
 
-[![Labs Writeups](https://img.shields.io/badge/Labs-View%20Writeups-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia-barbie/HTB-responder-lab)
+[![Hack the box writeups](https://img.shields.io/badge/Labs-View%20Writeups-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia-barbie/HTB-responder-lab)
+
+[![Owasp juice shop writeup](https://img.shields.io/badge/Labs-View%20Writeups-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia-barbie/HTB-responder-lab)
+
+
 
 ### 📄 CTF Writeups
 Documentation of challenges solved in cybersecurity labs including methodology, commands, screenshots, and lessons learned.
