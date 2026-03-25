@@ -62,10 +62,9 @@ Practice environments to explore vulnerabilities:
 
 Platforms used: TryHackMe, Hack The Box, owasp juice shop
 
-[![Hack the box writeups](https://img.shields.io/badge/Labs-View%20Writeups-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia-barbie/HTB-responder-lab)
+[![Hack The Box Writeups](https://img.shields.io/badge/Hack%20The%20Box-Writeups-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia-barbie/HTB-responder-lab)
 
-[![Owasp juice shop writeup](https://img.shields.io/badge/Labs-View%20Writeups-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia-barbie/HTB-responder-lab)
-
+[![OWASP Juice Shop Writeups](https://img.shields.io/badge/OWASP%20Juice%20Shop-Writeups-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia-barbie/HTB-responder-lab)
 
 
 ### 📄 CTF Writeups
