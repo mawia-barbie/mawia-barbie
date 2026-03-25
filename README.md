@@ -64,7 +64,7 @@ Platforms used: TryHackMe, Hack The Box, owasp juice shop
 
 [![Hack The Box Writeups](https://img.shields.io/badge/Hack%20The%20Box-Writeups-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia-barbie/HTB-responder-lab)
 
-[![OWASP Juice Shop Writeups](https://img.shields.io/badge/OWASP%20Juice%20Shop-Writeups-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia-barbie/HTB-responder-lab)
+[![OWASP Juice Shop Writeups](https://img.shields.io/badge/OWASP%20Juice%20Shop-Writeups-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawia-barbie/JUICE_SHOP_WRITEUPS)
 
 
 ### 📄 CTF Writeups
