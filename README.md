@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mawia-barbie.github.io/" style="text-decoration:none;">
+  <a href=https://geeportifolio.netlify.app/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/💖%20My%20Portfolio-Visit%20Now-FF82AB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
